@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/d.sanghvi/Documents/workspace/Scala_Assignments/StormHelloWorld/target/scala-2.13/stormhelloworld_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	storm[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/d.sanghvi/Documents/workspace/Scala_Assignments/StormHelloWorld/target/scala-2.13/classes/storm[0m
+[0m[[0m[0mdebug[0m] [0m[0m	storm/WordCountBolt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/d.sanghvi/Documents/workspace/Scala_Assignments/StormHelloWorld/target/scala-2.13/classes/storm/WordCountBolt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	storm/WordCountSingleNodeTopology$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/d.sanghvi/Documents/workspace/Scala_Assignments/StormHelloWorld/target/scala-2.13/classes/storm/WordCountSingleNodeTopology$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	storm/RandomSentenceSpout.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/d.sanghvi/Documents/workspace/Scala_Assignments/StormHelloWorld/target/scala-2.13/classes/storm/RandomSentenceSpout.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	storm/WordCountSingleNodeTopology.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/d.sanghvi/Documents/workspace/Scala_Assignments/StormHelloWorld/target/scala-2.13/classes/storm/WordCountSingleNodeTopology.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
